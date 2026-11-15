@@ -1,0 +1,6 @@
+{
+  "name": "KRISHIVA 360",
+  "description": "Portable agricultural field intelligence platform for Smart India Hackathon 2026 connecting real-time soil data to market demand.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
