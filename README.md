@@ -1,0 +1,7 @@
+# krishiva-360-nasa-space-apps-2026
+KRISHIVA 360: AI–IoT smart soil probe + crop recommendation app for farmers. Soil readings (moisture, N, P, K, pH, temperature) are combined with NASA POWER, SMAP, GPM IMERG &amp; Landsat data to give crop, irrigation and nutrient guidance. NASA Space Apps 2026, Amaravati – Field Shift: Adapting Farms with NASA Data.
+KRISHIVA 360 is an AI–IoT enabled smart soil intelligence and crop recommendation system for the challenge "Field Shift: Adapting Farms with NASA Data". It combines a portable handheld soil probe (measuring moisture, N, P, K, pH and temperature), an AI decision engine, a solar-powered adaptive pest lamp, and a farmer mobile app, all connected to NASA Earth observation data.
+
+Why it matters: farmers often lack reliable soil information, depend on slow conventional testing, and are unsure which crop to grow as climate conditions shift. KRISHIVA 360 brings the information to the farmer instead of making the farmer search for it.
+
+How it answers the challenge: field-level soil readings from the probe are combined with NASA POWER (weather and solar), SMAP (soil moisture), GPM IMERG (precipitation) and Landsat 8 & 9 (land imagery). The AI engine turns this into crop recommendations, irrigation guidance and nutrient guidance in the app, helping farmers adapt to changing conditions. Aggregated data also gives governments digital soil maps and crop suitability maps for planning. The project supports SDGs 2, 6, 7, 9, 12, 13 and 15.
